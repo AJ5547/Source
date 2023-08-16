@@ -1,0 +1,6 @@
+*.blah
+.blah*
+~/DS_Store*
+*.DS_store
+
+
